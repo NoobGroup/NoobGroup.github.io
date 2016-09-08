@@ -1,2 +1,2 @@
-![NoobGroup](media/NoobGroupIndex.png)
+![NoobGroup](media/NoobGroupBar.png)
 # NoobGroup
